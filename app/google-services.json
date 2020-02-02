@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998843316696",
+    "firebase_url": "https://grafirebaseproject-d8328.firebaseio.com",
+    "project_id": "grafirebaseproject-d8328",
+    "storage_bucket": "grafirebaseproject-d8328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998843316696:android:2343c074227040fd2d1aad",
+        "android_client_info": {
+          "package_name": "com.example.gra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998843316696-5mcqd3kaglhqn6sfjp7pj1r5chsgvpsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gra",
+            "certificate_hash": "651ba86728779ecc3ac76dc246f8c5fa2468a3a0"
+          }
+        },
+        {
+          "client_id": "998843316696-hvvp9g8qstj1qjbs4ftt9n90eaevbvtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD22D13IKt_9bmBL2ExpczVfgZcb9lsiJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998843316696-hvvp9g8qstj1qjbs4ftt9n90eaevbvtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
